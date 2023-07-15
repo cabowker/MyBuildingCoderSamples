@@ -1,0 +1,6 @@
+C:\Users\christopherbowker\RiderProjects\MyBuildingCoderSamples\MyBuildingCoderSamples\bin\Debug\MyBuildingCoderSamples.dll
+C:\Users\christopherbowker\RiderProjects\MyBuildingCoderSamples\MyBuildingCoderSamples\bin\Debug\MyBuildingCoderSamples.pdb
+C:\Users\christopherbowker\RiderProjects\MyBuildingCoderSamples\MyBuildingCoderSamples\obj\Debug\MyBuildingCoderSamples.csproj.AssemblyReference.cache
+C:\Users\christopherbowker\RiderProjects\MyBuildingCoderSamples\MyBuildingCoderSamples\obj\Debug\MyBuildingCoderSamples.csproj.CoreCompileInputs.cache
+C:\Users\christopherbowker\RiderProjects\MyBuildingCoderSamples\MyBuildingCoderSamples\obj\Debug\MyBuildingCoderSamples.dll
+C:\Users\christopherbowker\RiderProjects\MyBuildingCoderSamples\MyBuildingCoderSamples\obj\Debug\MyBuildingCoderSamples.pdb
